@@ -49,10 +49,3 @@ if st.button("Analyze"):
         st.info('Confused : {}'.format(custom_emoji))
 
     st.success("Polarity Score is: {}".format(result))
-
-
-
-####### PART 2 #######
-
-
-
